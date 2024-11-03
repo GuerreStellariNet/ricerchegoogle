@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Vercel config
+.vercel/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Sistemi operativi
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache
+
